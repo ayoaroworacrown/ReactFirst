@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Breadcrumb, BreadcrumbItem, Button, Col, Row, Label } from 'reactstrap';
-import { Control, LocalForm, Errors, Form, actions} from 'react-redux-form';
+import { Control, Errors, Form,} from 'react-redux-form';
 import {Link} from 'react-router-dom';
 
 
